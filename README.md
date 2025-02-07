@@ -1,9 +1,3 @@
-# 🎨 My Awesome Project  
-![GitHub Repo stars](https://img.shields.io/github/stars/username/repository?style=social)  
-
-🚀 Welcome to my project! Here are some features:  
-- ✅ Feature 1  
-- 🎉 Feature 2  
-- 💡 Feature 3  
-
-![Preview](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
