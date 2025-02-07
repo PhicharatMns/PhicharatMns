@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💻 About Me
+Hello! I'm a passionate web developer who loves working with **HTML, CSS, JavaScript, and Bootstrap 5**. I'm currently learning **Next.js** and exploring more frameworks.
 
-<!--
-**PhicharatMns/PhicharatMns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- 🖥 **Frontend**: HTML, CSS, Bootstrap 5, JavaScript  
+- ⚙ **Backend**: Node.js, Express.js  
+- 🗄 **Database**: MySQL, Firebase  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
