@@ -1,14 +1,9 @@
-# 💻 About Me
-Hello! I'm a passionate web developer who loves working with **HTML, CSS, JavaScript, and Bootstrap 5**. I'm currently learning **Next.js** and exploring more frameworks.
+# 🎨 My Awesome Project  
+![GitHub Repo stars](https://img.shields.io/github/stars/username/repository?style=social)  
 
-## 🚀 Skills
-- 🖥 **Frontend**: HTML, CSS, Bootstrap 5, JavaScript  
-- ⚙ **Backend**: Node.js, Express.js  
-- 🗄 **Database**: MySQL, Firebase  
+🚀 Welcome to my project! Here are some features:  
+- ✅ Feature 1  
+- 🎉 Feature 2  
+- 💡 Feature 3  
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 🌍 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+![Preview](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)  
