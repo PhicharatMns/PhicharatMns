@@ -42,16 +42,16 @@ I'm a passionate web developer with hands-on experience in building responsive a
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhicharatMns&show_icons=true&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhicharatMns&layout=compact&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="45%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=PhicharatMns&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Beer's GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=PhicharatMns&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&hide_border=true" width="94%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="94%" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&currStreakLabel=0891b2&fire=0891b2&ring=0891b2&background=1c1917&stroke=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
