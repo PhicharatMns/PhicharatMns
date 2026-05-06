@@ -42,12 +42,12 @@ I'm a passionate web developer with hands-on experience in building responsive a
 ### 📊 GitHub Activities
 
 <p align="center">
-  <a href="https://github.com/PhicharatMns">
-    <img src="https://github-readme-stats.vercel.app/api?username=PhicharatMns&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Beer's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/PhicharatMns">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhicharatMns&langs_count=8&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" width="45%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhicharatMns&show_icons=true&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhicharatMns&layout=compact&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&hide_border=true" width="94%" />
 </p>
 
 <p align="center">
@@ -66,12 +66,6 @@ I'm a passionate web developer with hands-on experience in building responsive a
   </a>
 </p>
 
----
 
-### ☕ Support
-If you like my work, feel free to support me!
-<p align="left">
-  <a href="https://www.buymeacoffee.com/PhicharatMns" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
-  </a>
-</p>
+
+
