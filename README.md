@@ -1,31 +1,77 @@
-Hi 👋 My name is Hi My name is Beer
-===================================
-
-full stack developer and Designer
----------------------------------
-
-I'm Beer, a passionate web developer with hands-on experience in building responsive and modern web applications. I specialize in HTML, CSS, JavaScript, JSX, Bootstrap 5, Node.js, Next.js, Tailwind CSS, and MongoDB. Whether it's frontend design or backend logic, I enjoy crafting clean, efficient, and user-focused solutions.
-
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [phicharatmns@gmail.com](mailto:phicharatmns@gmail.com)
+# Hi 👋 My name is Beer
+### Full Stack Developer & Designer from Thailand 🇹🇭
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PhicharatMns&label=Profile%20views&color=0891b2&style=flat" alt="PhicharatMns" />
 </p>
 
-### Socials
+I'm a passionate web developer with hands-on experience in building responsive and modern web applications. I enjoy crafting clean, efficient, and user-focused solutions, bridging the gap between elegant design and robust backend logic.
 
-<p align="left"> <a href="https://www.github.com/PhicharatMns" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🚀 Quick Stats
+*   🌍 Based in **Thailand**
+*   ✉️ Contact me: [phicharatmns@gmail.com](mailto:phicharatmns@gmail.com)
+*   🧠 Currently exploring **Next.js & Advanced Backend Patterns**
 
-<a href="http://www.github.com/PhicharatMns"><img src="https://github-readme-stats.vercel.app/api?username=PhicharatMns&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PhicharatMns's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/PhicharatMns"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ Tech Stack & Skills
 
-<a href="https://github.com/PhicharatMns" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhicharatMns&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Frontend & Design**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://mui.com/"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+</p>
 
-<b>Top Repositories</b>
+**Backend & Database**
+<p align="left">
+  <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://supabase.io/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### 📊 GitHub Activities
+
+<p align="center">
+  <a href="https://github.com/PhicharatMns">
+    <img src="https://github-readme-stats.vercel.app/api?username=PhicharatMns&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Beer's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/PhicharatMns">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhicharatMns&langs_count=8&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Top Languages" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhicharatMns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="94%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://github.com/PhicharatMns" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:phicharatmns@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
+
+---
+
+### ☕ Support
+If you like my work, feel free to support me!
+<p align="left">
+  <a href="https://www.buymeacoffee.com/PhicharatMns" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+  </a>
+</p>
